@@ -1,7 +1,7 @@
 # Multicade
 The goal was to create both a coin and non coin operated system, using a raspberry pi. In the end, I created a system to run multiple games of different consoles and arcade styles.
 
-## Gallery V1
+## Gallery of V1
 ### Used an IPAC, which is a device that takes in signals converting them to a keyboard like device that works with the emulator
 ![C1B9B556-5CB3-44FA-AA19-756FEA5C5F7A_1_105_c](https://github.com/user-attachments/assets/c8a0b675-5228-4843-8c83-731499a75137)
 ### Starting to work on the Control Panel
@@ -13,14 +13,16 @@ The goal was to create both a coin and non coin operated system, using a raspber
 ### Completed it, making 4 just like it for 2 customers, an arcade, and myself
 ![BD525D87-A40C-467C-8CBC-807786A310EE_1_105_c](https://github.com/user-attachments/assets/ddfee513-2827-471e-a5c3-529e729ec158)
 
-## Gallery V2 
+## Gallery of V2 with Coin Door 
 ### Used a Birde King Cabinet that was painted and updated to mount an LCD
-
+![IMG_0085](https://github.com/user-attachments/assets/c51762d5-f513-491d-bb57-a3926c828a2e)
 ### I remembered I had a 3D printer
 ![8DD7F723-0E99-452E-9F68-5839C2E67277_1_105_c](https://github.com/user-attachments/assets/95d65a69-a76f-4b13-b258-80809f36d7c9)
 ![8E3DAFE3-62AD-4364-B86D-6C1B27618965_1_105_c](https://github.com/user-attachments/assets/2da9efdb-6341-41e4-a364-cbc8d28576c2)
 ### Also added guides for how to play on the bezels that filled up the rest of the screen
 ![2E56BD8E-903C-4819-9DD7-EBC502439B82_1_105_c](https://github.com/user-attachments/assets/da566f52-9e2c-4345-aa27-8f42e395be17)
+### Final Product, with a functional coin door, made for a customer's bowling alley
+![52462A57-BEAE-42A5-B2FE-18536A104770_1_105_c](https://github.com/user-attachments/assets/d2b07e4e-eb68-4be6-9130-89bbea1247f9)
 
 
 
