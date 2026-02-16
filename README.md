@@ -22,7 +22,7 @@ The goal was to create both a coin and non coin operated system, using a raspber
 ### Also added guides for how to play on the bezels that filled up the rest of the screen
 ![2E56BD8E-903C-4819-9DD7-EBC502439B82_1_105_c](https://github.com/user-attachments/assets/da566f52-9e2c-4345-aa27-8f42e395be17)
 ### Final Product, with a functional coin door, made for a customer's bowling alley
-<video src="[https://github.com](https://drive.google.com/file/d/1imoey7KhGesUrP49Pq2E9blzgU1gi0XI/view)" controls></video>
+<iframe src="https://drive.google.com/file/d/1imoey7KhGesUrP49Pq2E9blzgU1gi0XI/preview" width="640" height="480"></iframe>
 
 
 
